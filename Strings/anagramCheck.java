@@ -17,5 +17,6 @@ public class anagramCheck {
         else{
             System.out.println("Yes they are pana");
         }
+        //String[] names = example.split("[;:-]");
     }
 }
